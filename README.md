@@ -20,6 +20,6 @@
 
 |  Directory | Number of files | Extension 
 | -------- | -------- | ---- |
-| data       | 1        | .xlsx  | 
+| data       | 3        | .xlsx, .tsv  | 
 | images       | 4        | .jpg  | 
 | source_code        | 4        | .py  | 
